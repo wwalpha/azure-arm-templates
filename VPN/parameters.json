@@ -10,6 +10,15 @@
         },
         "virtualNetworkGateways_vpn_gw_name": {
             "value": null
+        },
+        "tenant_id": {
+            "value": null
+        },
+        "audience": {
+            "value": null
+        },
+        "issuer": {
+            "value": null
         }
     }
 }
